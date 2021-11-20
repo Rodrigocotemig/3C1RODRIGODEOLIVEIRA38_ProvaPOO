@@ -1,0 +1,5 @@
+C:\Users\Rodrigo\source\repos\3C1Rodrigo38_ProvaPOO\obj\Debug\ProvaPOO_3C1Rodrigo38.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\3C1Rodrigo38_ProvaPOO\obj\Debug\_3C1Rodrigo38_ProvaPOO.Form1.resources
+C:\Users\Rodrigo\source\repos\3C1Rodrigo38_ProvaPOO\obj\Debug\ProvaPOO_3C1Rodrigo38.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\3C1Rodrigo38_ProvaPOO\obj\Debug\3C1Rodrigo38_ProvaPOO.exe
+C:\Users\Rodrigo\source\repos\3C1Rodrigo38_ProvaPOO\obj\Debug\3C1Rodrigo38_ProvaPOO.pdb
